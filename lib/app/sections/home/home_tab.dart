@@ -95,7 +95,7 @@ class HomeTab extends StatelessWidget {
                 ),
                 Space.y(2.w)!,
                 ColorChageButton(
-                  text: 'baixar cv',
+                  text: 'Abrir Curriculo',
                   onTap: () {
                     html.window.open(resume, "pdf");
                   },

@@ -18,10 +18,10 @@ String contactHeadding = "Vamos trabalhar juntos?";
 String contactSubHeadding = "Deixei aqui alguns outros canais de contato :) ";
 //
 String miniDescription =
-    "Sou um desenvolvedor de aplicativos móveis, web e UI designer. Eu sou um graduado como Engenheiro de Software. Eu tenho desenvolvido aplicativos móveis há mais de 4 anos e sempre tenho tentado algo novo.";
+    "Sou um Engenheiro de Software com formação técnica em informática, altamente criativo e apaixonado por desenvolver ideias inovadoras. Com habilidades sólidas em programação e solução de problemas, estou sempre buscando maneiras de melhorar o desempenho e a funcionalidade dos projetos que estou envolvido.";
 
 String servicesSubHeading =
-    "Desde pequeno sou apaixonado por tecnologia, cresci vendo elas se desenvolverem e me apaixonei por elas. Eu sempre tive vontade de criar algo que pudesse ajudar as pessoas, e hoje eu tenho a oportunidade de fazer isso. Eu sou um desenvolvedor, web e UI designer, no momento ainda definindo minha especialização, mas por enquanto generalista. Eu sou um graduado como Engenheiro de Software. Eu tenho desenvolvido aplicativos, programas, websites, jogos e ideias há mais de 4 anos e sempre tenho tentado algo novo. Eu tenho trabalhado em diversos protótipos e obtive uma experiência de aprendizado valiosa.";
+    "Experiência em múltiplas tecnologias web e mobile, sempre atualizado com as mais novas tendências.";
 //
 
 String protfolioSubHeading =
