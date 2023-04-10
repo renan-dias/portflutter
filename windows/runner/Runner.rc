@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "mysite" "\0"
+            VALUE "FileDescription", "portflutter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "mysite" "\0"
+            VALUE "InternalName", "portflutter" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "mysite.exe" "\0"
-            VALUE "ProductName", "mysite" "\0"
+            VALUE "OriginalFilename", "portflutter.exe" "\0"
+            VALUE "ProductName", "portflutter" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

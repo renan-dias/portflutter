@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mysite/app/widgets/custom_outline.dart';
-import 'package:mysite/core/theme/app_theme.dart';
+import 'package:portflutter/app/widgets/custom_outline.dart';
+import 'package:portflutter/core/theme/app_theme.dart';
 
 class ZoomAnimations extends StatefulWidget {
   const ZoomAnimations({Key? key}) : super(key: key);

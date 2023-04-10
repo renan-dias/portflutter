@@ -1,11 +1,11 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:mysite/app/utils/project_utils.dart';
-import 'package:mysite/app/widgets/custom_text_heading.dart';
-import 'package:mysite/changes/links.dart';
-import 'package:mysite/changes/strings.dart';
-import 'package:mysite/core/configs/configs.dart';
-import 'package:mysite/core/util/constants.dart';
+import 'package:portflutter/app/utils/project_utils.dart';
+import 'package:portflutter/app/widgets/custom_text_heading.dart';
+import 'package:portflutter/changes/links.dart';
+import 'package:portflutter/changes/strings.dart';
+import 'package:portflutter/core/configs/configs.dart';
+import 'package:portflutter/core/util/constants.dart';
 import 'package:sizer/sizer.dart';
 
 import 'widgets/project_card.dart';

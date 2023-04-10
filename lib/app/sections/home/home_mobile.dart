@@ -1,13 +1,13 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-import 'package:mysite/app/widgets/color_chage_btn.dart';
-import 'package:mysite/changes/img.dart';
-import 'package:mysite/changes/links.dart';
-import 'package:mysite/changes/strings.dart';
-import 'package:mysite/core/animations/entrance_fader.dart';
-import 'package:mysite/core/animations/zoom_animation.dart';
-import 'package:mysite/core/configs/configs.dart';
-import 'package:mysite/core/res/responsive_size.dart';
+import 'package:portflutter/app/widgets/color_chage_btn.dart';
+import 'package:portflutter/changes/img.dart';
+import 'package:portflutter/changes/links.dart';
+import 'package:portflutter/changes/strings.dart';
+import 'package:portflutter/core/animations/entrance_fader.dart';
+import 'package:portflutter/core/animations/zoom_animation.dart';
+import 'package:portflutter/core/configs/configs.dart';
+import 'package:portflutter/core/res/responsive_size.dart';
 import 'package:sizer/sizer.dart';
 import 'package:universal_html/html.dart' as html;
 
